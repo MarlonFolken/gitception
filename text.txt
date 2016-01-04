@@ -1,5 +1,3 @@
-Cinco
-Catro
-Tes
-Ds
-Uo
+Tres
+Dos
+Uno
